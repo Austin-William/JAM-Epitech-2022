@@ -1,0 +1,44 @@
+Rencontre avec le créancier :
+- Bonjour [nom de perso], toutes mes condoléances. J'ai appris pour t'a mère.
+- Merci (triste)
+- Sache qu'elle va beaucoup nous manquer, elle à beaucoup constribué au groupe.
+- ...
+- Et j'espère bien que tu prendra sa suite.
+- Comment ça ?
+- Vois-tu, nous avions une relations de confiance entre nous, 
+et lorsqu'elle m'a demander de lui preter du temps je n'ai pas hésité une seule séconde sachant qu'elle saurait honnoré sa part du marcher.
+- Dois-je comprendre que ce n'est pas le cas ?
+- Effectivement, elle me devait encore 200 000 heure et j'attends de toi que tu respect ses engagement.
+- 200 000 ?! Comment je pourrait avoir cette somme. J'ai déjà du mal à vivre au jour le jour.
+- Très bien. Je suis pret à t'offrir une chance. Voici 2 offre de travaille, choisis-en une et cela servira de compensation. Ok ?
+[choix de l'offre legal]
+- Je vais prendre celle-là
+- Très bien, tu commenceras demain. Tu peux y aller maintenant.
+- Au revoir.
+- Au revoir, et à bientot.
+[choix de l'offre illegal]
+- Je vais prendre celle-là
+- Très bien, tu saura les modalités de ce travail dans les prochains jours. Tu peux y aller maintenant.
+- Au revoir.
+- Au revoir, et à bientot.
+[choix du non]
+- Je refuse.
+- Je ne crois pas que ce soit une option.
+- Et pourtant si, je m'en vais.
+- Tuez-le !
+-->fin mort
+
+Sur le chantier :
+"Cela faisait maintenant plusieurs semaines que je travaillait sur le chantier et je commençais à m'habituer à l'ambiance de travail. Soudain mon superieur m'interpelat"
+- [nom du perso], alors tu t'habitue au chantier ?
+- Oui, je commence.
+- Dis-moi j'aurai une question. Sur la partie nord du chantier on commence à acumulé du retard. ça te dirais de faire des heures supplémentaires pour combler ça ? moyenant finance bien-sur.
+[choix oui]
+- Bien-sur, ça ne me dérange pas.
+- Très bien, tu peux commencer ce soir si ça ne te dérange pas, sinon ça va vraiment devenir un problème si on enchaine trop de retard.
+- C'est compris.
+[choix non]
+- Je suis désolé mais j'ai autre chose à faire le soir, donc je serai pas disponible.
+- Dommage, je ne pensais pas que tu refuserais. Pas grave je vais demander à quelqu'un d'autre. Dit-moi si tu change d'avis.
+- Compris, au revoir.
+
