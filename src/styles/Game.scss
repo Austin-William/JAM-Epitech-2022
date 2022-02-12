@@ -24,12 +24,16 @@
     top: 20%;
     left: 0;
     position: absolute;
+    background-color: rgba(0, 0, 0, 0.288);
+    border-radius: 10%;
 }
 
 .Game .Game-person-right {
     top: 20%;
     right: 0;
     position: absolute;
+    background-color: rgba(0, 0, 0, 0.288);
+    border-radius: 10%;
 }
 
 .Game .Game-dialog {

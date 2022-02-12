@@ -7,6 +7,8 @@ function Game() {
     const [response1, setResponse1] = React.useState("1er reponse");
     const [response2, setResponse2] = React.useState("2eme reponse");
     const [response3, setResponse3] = React.useState("3eme reponse");
+    const [person1, setPerson1] = React.useState(require("../assets/ouvrier.png"));
+    const [person2, setPerson2] = React.useState(require("../assets/chef_de_chantier.png"));
     const [background, setBackground] = React.useState(require('../assets/pauvre_jour.png'));
 
     const handleDialog = (dialog) => {
@@ -34,10 +36,10 @@ function Game() {
             <div className="Game-context">
                 <img className="Game-background" src={background} alt="background" />
                 <div className="Game-person-left">
-                    <img src="https://avatars.githubusercontent.com/u/55129304?v=4" alt="person-left" />
+                    <img src={person1} alt="person-left" />
                 </div>
                 <div className="Game-person-right">
-                    <img src="https://avatars.githubusercontent.com/u/55129304?v=4" alt="person-right" />
+                    <img src={person2} alt="person-right" />
                 </div>
             </div>
             <div className="Game-dialog">
