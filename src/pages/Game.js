@@ -4,6 +4,9 @@ import '../styles/Game.scss';
 function Game() {
 
     const [dialog, setDialog] = React.useState("1er dialog");
+    const [response1, setResponse1] = React.useState("1er reponse");
+    const [response2, setResponse2] = React.useState("2eme reponse");
+    const [response3, setResponse3] = React.useState("3eme reponse");
     const [background, setBackground] = React.useState(require('../assets/pauvre_jour.png'));
 
     const handleDialog = (dialog) => {
@@ -12,6 +15,18 @@ function Game() {
 
     const modifyBackground = (background) => {
         setBackground(background);
+    }
+
+    const handleResponse1 = (response) => {
+        setResponse1(response);
+    }
+
+    const handleResponse2 = (response) => {
+        setResponse2(response);
+    }
+
+    const handleResponse3 = (response) => {
+        setResponse3(response);
     }
 
     return (
@@ -41,17 +56,17 @@ function Game() {
             <div className="Game-buttons">
                 <button>
                     <span>
-                        Réponse 1
+                        {response1}
                     </span>
                 </button>
                 <button>
                     <span>
-                        Réponse 2
+                        {response2}
                     </span>
                 </button>
                 <button>
                     <span>
-                        Réponse 3
+                        {response3}
                     </span>
                 </button>
             </div>
