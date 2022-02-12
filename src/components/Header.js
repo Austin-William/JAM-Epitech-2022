@@ -5,7 +5,7 @@ import "../styles/Header.css";
 function Header() {
     return (
         <header className="Header">
-            <div class="overlay">
+            <div className="overlay">
                 <h1>
                     Success Story
                 </h1>
