@@ -124,7 +124,7 @@ function Game() {
         },
         {
             "nb": 12,
-            "name": "Jean-Claude",
+            "name": "Jean-Paul",
             "text": "Très bien, tu commenceras demain. Tu peux y aller maintenant.",
             "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
@@ -140,7 +140,7 @@ function Game() {
         },
         {
             "nb": 14,
-            "name": "Jean-Claude",
+            "name": "Jean-Paul",
             "text": "Au revoir, et à bientôt.",
             "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
@@ -156,7 +156,7 @@ function Game() {
         },
         {
             "nb": 16,
-            "name": "Jean-Claude",
+            "name": "Jean-Paul",
             "text": "Henry, alors tu t'habitues au chantier ?",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
@@ -172,7 +172,7 @@ function Game() {
         },
         {
             "nb": 18,
-            "name": "Jean-Claude",
+            "name": "Jean-Paul",
             "text": "Dis moi, j'aurai une question. Sur la partie nord du chantier, on commence à accumuler du retard. Ca te dirait de faire des heures supplémentaires pour combler ça ? moyenant finance bien-sur.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
@@ -181,7 +181,7 @@ function Game() {
                 {
                     "text": "Oui",
                     "id": 0,
-                    "jump": 22,
+                    "jump": 19,
                 },
                 {
                     "text": "Non",
@@ -201,7 +201,7 @@ function Game() {
         },
         {
             "nb": 20,
-            "name": "Jean-Claude",
+            "name": "Jean-Paul",
             "text": "Très bien, tu peux commencer ce soir, sinon ça va vraiment devenir un problème si on enchaine trop de retard.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
@@ -274,7 +274,7 @@ function Game() {
         {
             "nb": 29,
             "name": "Jean-Michel",
-            "text": "Vous êtes perspicaces. Effectivement, je viens des quartiezs riches et apparemment, c'est une raison valable pour vous aggressez à mort.",
+            "text": "Vous êtes perspicaces. Effectivement, je viens des quartiers riches et apparemment, c'est une raison valable pour vous aggressez à mort.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/chantier_nuit.png'),
@@ -456,7 +456,7 @@ function Game() {
         {
             "nb": 48,
             "win": true,
-            "text": "Vous avez fini le jeu en étant riche. Félicitations !",
+            "text": "Le succès ne s'obtient que lorsqu'on est sûr de sa voie.",
             "background": require('../assets/villa.png')
         },
 
@@ -498,7 +498,7 @@ function Game() {
         {
             "nb": 53,
             "name": "Jean-Michel",
-            "text": "Et bien on dirait que le ressentie envers les quarties riches soit plus grande que je ne l'imaginais.",
+            "text": "Et bien on dirait que le ressentie envers les quartiers riches soit plus grande que je ne l'imaginais.",
             "image_right": require("../assets/homme_riche_qui_meurt.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png'),
@@ -586,7 +586,7 @@ function Game() {
         {
             "nb": 62,
             "name": "Le policier",
-            "text": "Encore heureux, suel les personnes qui enfreignent les règles, comme vous, sont au courant. Je vous invite donc à me suivre.",
+            "text": "Encore heureux, seul les personnes qui enfreignent les règles, comme vous, sont au courant. Je vous invite donc à me suivre.",
             "image_right": require("../assets/policier.jpg"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/villa.png')
