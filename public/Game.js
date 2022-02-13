@@ -235,7 +235,7 @@ function Game() {
             "page": 25,
             "name": "Henry",
             "text": "Que faites-vous ici ? Vous êtes bléssé ?",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -243,7 +243,7 @@ function Game() {
             "page": 26,
             "name": "Jean-Michel",
             "text": "Oui et il semblerait que je n'en ai plus pour très longtemps.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -251,7 +251,7 @@ function Game() {
             "page": 27,
             "name": "Henry",
             "text": "Attendez je vais appeler les secours.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -259,7 +259,7 @@ function Game() {
             "page": 28,
             "name": "Jean-Michel",
             "text": "Ca ne servira à rien. Dans ce quartier, les secours mettent beaucoup trop de temps pour arriver.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -267,7 +267,7 @@ function Game() {
             "page": 29,
             "name": "Henry",
             "text": "Dans ce quartier ? Vous venez des quartiers riches ?",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -275,7 +275,7 @@ function Game() {
             "page": 30,
             "name": "Jean-Michel",
             "text": "Vous êtes perspicaces. Effectivement, je viens des quartiezs riches et apparemment, c'est une raison valable pour vous aggressez à mort.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png'),
             "response": [
@@ -298,7 +298,7 @@ function Game() {
             "page": 31,
             "name": "Henry",
             "text": "Je suis désolé que vous ayez eu à subir ça.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -306,7 +306,7 @@ function Game() {
             "page": 32,
             "name": "Jean-Michel",
             "text": "On n'y peut rien. La vie ici est dur, je suppose que t'aimerais possédé mon temps.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -314,7 +314,7 @@ function Game() {
             "page": 33,
             "name": "Henry",
             "text": "Je vais pas vous mentir, ça m'arrangerait bien. Je n'aurai plus cette dette sur les épaules.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -322,7 +322,7 @@ function Game() {
             "page": 34,
             "name": "Jean-Michel",
             "text": "Tu sais, la vie de riche n'est pas si bien que ça. Je n'ai ni famille ni amis, je suis seul.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
@@ -330,107 +330,12 @@ function Game() {
             "page": 35,
             "name": "Henry",
             "text": "Je suis dans la même situation donc ça ne changerait pas grand chose.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-        {
-            "page": 36,
-            "name": "Jean-Michel",
-            "text": "Si je peux au moins faire un cadeau avant de partir, j'aimerais que ce soit toi qui hérite de mon temps.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-        {
-            "page": 37,
-            "name": "Henry",
-            "text": "Tu es sûr ?",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-        {
-            "page": 38,
-            "name": "Jean-Michel",
-            "text": "Je n'ai personne d'autre à qui donner de toute façon.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-        {
-            "page": 39,
-            "name": "Henry",
-            "text": "... J'accepte.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-        {
-            "page": 40,
-            "name": "Jean-Michel",
-            "text": "Eh bien avec àa, je pars en faisant au moins une bonne action.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-        {
-            "page": 41,
-            "name": "Jean-Michel",
-            "text": "* est mort *",
-            "image_right": require("../assets/homme_riche_qui_meurt.png"),
+            "image_right": require("../assets/homme_riche.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
 
         // Choix méchant
-        
-        {
-            "name": "Henry",
-            "text": "C'est le sort qui incombe à ceux qui viennent dans ce quartier.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-        {
-            "name": "Jean-Michel",
-            "text": "Et bien on dirait que le ressentie envers les quarties riches soit plus grande que je ne l'imaginais.",
-            "image_right": require("../assets/homme_riche_qui_meurt.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png'),
-            "response": [
-                {
-                    "text": "Partir",
-                    "id": "1",
-                    "jump": 31,
-                },
-                {
-                    "text": "Voler son temps",
-                    "id": "2",
-                    "jump": 16,
-                },
-            ]
-        },
-
-        // Partir
-
-        {
-            "name": "Henry",
-            "text": "Je ferai mieux de prévenir la police si je ne veux pas de problème.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
-
-        // Voler son temps
-
-        {
-            "name": "Henry",
-            "text": "Il n'aura plus besoin de son temps de toute façon. Autant lui prendre.",
-            "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
-            "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
-        },
 
         // No
 
