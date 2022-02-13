@@ -466,7 +466,7 @@ function Game() {
             "nb": 49,
             "name": "Henry",
             "text": "Je ne vous dois rien, je vivrai ma vie comme je l'entends.",
-            "image_right": "",
+            "image_right": require("../assets/gorilla.png"),
             "image_left": require("../assets/homme_riche.png"),
             "background": require('../assets/villa.png')
         },
