@@ -59,7 +59,15 @@ Sur le chantier de nuit :
 - Je ne vais pas mentir, ça m'arrangerai bien. Je n'aurai pas cette dette sur les épaules.
 - Tu sais la vie de riche n'est pas si bien que ça. Je n'ai ni famille, ni ami. 
 - Je suis dans la même situation donc ça ne changerai pas grand chose.
-- 
+- Si je peux au moins faire un cadeau avant de partir, j'aimerais que ce soit toi qui hérite de mon temps.
+- Tu es sur ?
+- Je n'ai personne d'autre à qui donné de toute façon.
+- ... J'accepte.
+- Eh bien avec ça, je pars en faisant au moins une bonne action. *le perso meurt*
 [choix méchant]
--
--
+- C'est le sort qui incombe à ceux qui ne sont pas les bienvenus dans ce quartier.
+- Et bien il semblerait que le resentie envers les quartiers riches soit plus grand que je l'imaginais. *le perso meurt*
+    [choix partir]
+    - Je ferais mieux de prévenir la police si je ne veux pas de problème
+    [choix prendre son temps]
+    - Il n'aura plus besoin de son temps de toute façon. Autant lui prendre.
