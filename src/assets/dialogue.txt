@@ -1,5 +1,5 @@
 Rencontre avec le créancier :
-- Bonjour [nom de perso], toutes mes condoléances. J'ai appris pour t'a mère.
+- Bonjour [nom de perso], toutes mes condoléances. J'ai appris pour ta mère.
 - Merci (triste)
 - Sache qu'elle va beaucoup nous manquer, elle à beaucoup constribué au groupe.
 - ...
@@ -42,3 +42,24 @@ Sur le chantier :
 - Dommage, je ne pensais pas que tu refuserais. Pas grave je vais demander à quelqu'un d'autre. Dit-moi si tu change d'avis.
 - Compris, au revoir.
 
+Sur le chantier de nuit :
+*perso seul*
+- Voilà, j'ai enfin fini. ça m'aura pris plus de temps que prévu et tout les autres sont déja partie.
+- Qu'est-ce que c'est que ce bruit.
+*perso avec le mourrant*
+- Que faite vous ici ? Vous êtes blessé ?
+- Oui et il semblerait que je n'en ai plus pour très longtemps.
+- Attendez, je vais appeler les secours.
+- ça ne servira à rien, dans ce quartier les secours mettent beaucoup trop de temps à arriver.
+- "Dans ce quartier" ? Vous venez des quartiers riches ?
+- Vous êtes perspicace. Effectivement, je viens des quartiers riches et apparament c'est une raison valable pour vous agressez à mort.
+[choix gentils]
+- Je suis désolé que vous ayez eu à subir ça.
+- On n'y peux rien. La vie ici est dur je suppose que toi aussi tu aimerais possédé mon temps.
+- Je ne vais pas mentir, ça m'arrangerai bien. Je n'aurai pas cette dette sur les épaules.
+- Tu sais la vie de riche n'est pas si bien que ça. Je n'ai ni famille, ni ami. 
+- Je suis dans la même situation donc ça ne changerai pas grand chose.
+- 
+[choix méchant]
+-
+-
