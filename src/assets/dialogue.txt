@@ -21,6 +21,7 @@ et lorsqu'elle m'a demander de lui preter du temps je n'ai pas hésité une seul
 - Très bien, tu saura les modalités de ce travail dans les prochains jours. Tu peux y aller maintenant.
 - Au revoir.
 - Au revoir, et à bientot.
+[choix du non]
 - Je refuse.
 - Je ne crois pas que ce soit une option.
 - Et pourtant si, je m'en vais.
@@ -114,36 +115,24 @@ Après avoir accepter l'offre illégale :
 - Ne fais pas l'étonner, tu as choisie se boulot tu n'as pas le choix tu dois le faire.
 [choix refuse]
 - Jamais ne ferai ça je prefere largement l'autre travail !
-- Et bien, prend
+- Et bien, prends le alors.
+- Evidemment que je le prends.
 [choix Accepte]
 - ... Très bien.
+- Cette personne s'appelle Jean-Michel, il devrait passer à cette endroit demain. Fait ton job correctement et ta dette sera oublié.
 
------------------------------------------
-Accepte 1 seule fois :
-
-Crean: Alors la cible est un homme qui s'appelle Jean-Michel, il vit dans le 16 ème et il ni de femme ni d'enfant.
-
-Henry: Il vous a fait quoi ce mec pour que vous voulait sa mort ?
-
-Crean: tT n'as pas besoin de savoir ce qu'il ma fait, tu fais le job que je t'ai demandé c'est tout.
-
-Henry: Euuhh ok... Et comment je fais pour le tuer ?
-
-Crea: Je sais pas c'est toi qui voit.
-
-Henry: Si j'arrive pas à le faire ou qu'il arrive à s'enfuire ?
-
-Crea: J'en ai rien à foutre c'est ton problème. Si tu n'arrive pas à le tuer nôtre deal marche plus et tu resteras endetté.
 ----------------------------------------
-Le job fait :
-
-Henry: C'est bon c'est fait, ma dette efface.
-
-Crea: Bien, ta dette s'efface et tiens le petit bonus 20 000€.
-
-Henry: 20 000€ !!! Wow c'est beaucoup.
-
-Crea: Ca te dirais de te faire plus d'argent, beaucoup plus ? ( Créancier propose de faire les plusieurs missions )
-
-Proposition : Accepter ( deviens riche en méchant ) ou Refuser ( deviens reste pauvre et criminel ).
- 
+Après avoir fait le job :
+*Quelque jour plus tard après avoir accomplie la mission*
+- Voilà c'est fait.
+- Merci, tu m'a été d'une grande aide. Ta dette est maintenant effacé.
+- Au revoir et surtout adieu.
+- Attend ! J'ai une seconde proposition à te faire. Travail encore pour moi et cette fois-ci se sera pour ton compte personnel. Tu es daccord ?
+[choix accepter]
+- Je l'ai déjà fait une fois, et si tu me promet que tu ne me balanceras pas c'est daccord.
+- Nous avons donc un accord.
+*Fin riche mais criminel* 
+[choix refus]
+- Non. Cette fois m'a suffit. Adieu.
+"La nuit suivante la police était devant la porte de ma maison, et je fus arreter pour meurtre. Jean-claude m'avait balancé."
+*fin prison*
