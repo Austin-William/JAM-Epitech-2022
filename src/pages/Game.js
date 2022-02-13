@@ -117,14 +117,14 @@ function Game() {
         {
             "nb": 11,
             "name": "Henry",
-            "text": "Je vais prendre celle du légal.",
+            "text": "Je vais prendre celle-là.",
             "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
         {
             "nb": 12,
-            "name": "Jean-Paul",
+            "name": "Jean-Claude",
             "text": "Très bien, tu commenceras demain. Tu peux y aller maintenant.",
             "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
@@ -140,7 +140,7 @@ function Game() {
         },
         {
             "nb": 14,
-            "name": "Jean-Paul",
+            "name": "Jean-Claude",
             "text": "Au revoir, et à bientôt.",
             "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
@@ -148,7 +148,7 @@ function Game() {
         },
         {
             "nb": 15,
-            "name": "Henry",
+            "name": "",
             "text": "Cela faisait maintenant plusieurs semaines que je travaillais sur le chantier et je commençais à m'habituer à l'ambiance de travail. Soudain mon superieur m'interpela.",
             "image_right": "",
             "image_left": require("../assets/ouvrier.png"),
@@ -384,7 +384,7 @@ function Game() {
         },
         {
             "nb": 41,
-            "name": "Henry",
+            "name": "",
             "text": "Grâce au temps que l'homme m'a donné, j'ai pu remboursé ma dette. Cependant, l'homme ne m'avait pas seulement donné son temps, il m'avait aussi légué tout ses biens. Grace à ça, je pus m'installer dans les quartiers riches et reprendre son affaire, m'assurant un avenir. Ce soir là, la police c'était assuré que je n'avais pas volé son temps en regardant un document que seul eux on accès. Si j'avait pris son temps sans son accords ça se serait vu et j'aurais fini en prison. Cependant ma soudaine apparition ne fait pas plaisir aux autres riches. J'ai un entretien avec un d'entre eux qui est très influant, cette discussion pourrait bien scellé mon sort.",
             "image_right": "",
             "image_left": require("../assets/homme_riche.png"),
@@ -493,7 +493,7 @@ function Game() {
             "text": "C'est le sort qui incombe à ceux qui viennent dans ce quartier.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 53,
@@ -501,12 +501,12 @@ function Game() {
             "text": "Et bien on dirait que le ressentie envers les quartiers riches soit plus grande que je ne l'imaginais.",
             "image_right": require("../assets/homme_riche_qui_meurt.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png'),
+            "background": require('../assets/chantier_nuit.png'),
             "response": [
                 {
                     "text": "Partir",
                     "id": 0,
-                    "jump": 57,
+                    "jump": 54,
                 },
                 {
                     "text": "Voler son temps",
@@ -532,13 +532,13 @@ function Game() {
             "text": "Plusieurs jours après, l'affaire commençait déjà à être oublier et moi, je retournais à mon quotidien.",
             "image_right": "",
             "image_left": "",
-            "background": require('../assets/chantier_jour.png')
+            "background": require('../assets/pauvre_jour.png')
         },
         {
             "nb": 56,
             "rip": true,
             "text": "Vous avez fini le jeu en étant pauvre. Dommage !",
-            "background": require('../assets/chantier_jour.png')
+            "background": require('../assets/pauvre_jour.png')
         },
 
         // Voler son temps
@@ -606,7 +606,7 @@ function Game() {
             "text": "Je suis désolé, mais j'ai autre chose à faire le soir, donc je serai indisponible.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 65,
@@ -614,7 +614,7 @@ function Game() {
             "text": "Dommage, je ne pensais pas que tu refuserais. Pas grave, je vais demander à quelqu'un d'autre. Dit moi si tu changes d'avis.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 66,
@@ -622,13 +622,13 @@ function Game() {
             "text": "Compris, au revoir",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 67,
             "rip": true,
             "text": "Vous êtes fénéants. Vous avez fini le jeu en étant pauvre. Dommage !",
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
 
         ////////////////////////////////// Illegal choice //////////////////////////////////
@@ -636,7 +636,7 @@ function Game() {
         {
             "nb": 68,
             "name": "Henry",
-            "text": "Je vais prendre celle du illégal.",
+            "text": "Je vais prendre celle-ci.",
             "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
@@ -812,8 +812,8 @@ function Game() {
             "nb": 86,
             "name": "",
             "text": "La nuit suivante, la police était devant la porte de ma maison et je fûs arrêté pour meurtre. Jean-Claude m'avait balancé.",
-            "image_right": "",
-            "image_left": require("../assets/policier.jpg"),
+            "image_right": require("../assets/policier.jpg"),
+            "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_nuit.png')
         },
         {
