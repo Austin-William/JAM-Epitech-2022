@@ -713,7 +713,7 @@ function Game() {
                 {
                     "text": "Refuser",
                     "id": 1,
-                    "jump": 16,
+                    "jump": 88,
                 },
             ]
         },
