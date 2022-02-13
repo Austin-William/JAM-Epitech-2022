@@ -7,7 +7,7 @@ function Header() {
         <header className="Header">
             <div className="overlay">
                 <h1>
-                    Success Story
+                    Successful Story
                 </h1>
                 <p>
                     Un jeu de rôle qui vous donne la possibilité d'avoir le succès que vous voulez.
