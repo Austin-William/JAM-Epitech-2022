@@ -1,0 +1,25 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5em;
+}
+
+.Home h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.4em;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgb(173, 173, 173);
+    margin-bottom: 1em;
+}
+
+.Home .Home-description {
+    text-shadow: 1px 1px 1px rgb(173, 173, 173);
+    background-color: rgba(255, 255, 255, 0.74);
+    border-radius: 20px;
+    width: 80%;
+    text-align: justify;
+    padding: 2em;
+}

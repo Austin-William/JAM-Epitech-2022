@@ -10,7 +10,7 @@ function Header() {
                     Success Story
                 </h1>
                 <p>
-                    Success Story is an online game to grow up in the social world. Make the right choices and you will be the successfullest guy in the world.
+                    Un jeu de rôle qui vous donne la possibilité d'avoir le succès que vous voulez.
                 </p>
                 <br />
                 <Link to="/game">
