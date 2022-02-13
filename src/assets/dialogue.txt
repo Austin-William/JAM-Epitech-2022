@@ -21,7 +21,6 @@ et lorsqu'elle m'a demander de lui preter du temps je n'ai pas hésité une seul
 - Très bien, tu saura les modalités de ce travail dans les prochains jours. Tu peux y aller maintenant.
 - Au revoir.
 - Au revoir, et à bientot.
-[choix du non]
 - Je refuse.
 - Je ne crois pas que ce soit une option.
 - Et pourtant si, je m'en vais.
@@ -105,3 +104,46 @@ est notifier par nos services.
 - Je n'etait pas au courant.
 - Encore heureux seul les personnes qui enfreignent les rêgles, comme vous, sont au courant. Je vous invite donc à me suivre.
 *Fin criminel*
+
+----------------------------------------
+Après avoir accepter l'offre illégale :
+*Quelques jours plus tard*
+- Quels sont les modalités ?
+- Je voudrai que tu fasse disparaitre cette personne.
+- Quoi ?!?
+- Ne fais pas l'étonner, tu as choisie se boulot tu n'as pas le choix tu dois le faire.
+[choix refuse]
+- Jamais ne ferai ça je prefere largement l'autre travail !
+- Et bien, prend
+[choix Accepte]
+- ... Très bien.
+
+-----------------------------------------
+Accepte 1 seule fois :
+
+Crean: Alors la cible est un homme qui s'appelle Jean-Michel, il vit dans le 16 ème et il ni de femme ni d'enfant.
+
+Henry: Il vous a fait quoi ce mec pour que vous voulait sa mort ?
+
+Crean: tT n'as pas besoin de savoir ce qu'il ma fait, tu fais le job que je t'ai demandé c'est tout.
+
+Henry: Euuhh ok... Et comment je fais pour le tuer ?
+
+Crea: Je sais pas c'est toi qui voit.
+
+Henry: Si j'arrive pas à le faire ou qu'il arrive à s'enfuire ?
+
+Crea: J'en ai rien à foutre c'est ton problème. Si tu n'arrive pas à le tuer nôtre deal marche plus et tu resteras endetté.
+----------------------------------------
+Le job fait :
+
+Henry: C'est bon c'est fait, ma dette efface.
+
+Crea: Bien, ta dette s'efface et tiens le petit bonus 20 000€.
+
+Henry: 20 000€ !!! Wow c'est beaucoup.
+
+Crea: Ca te dirais de te faire plus d'argent, beaucoup plus ? ( Créancier propose de faire les plusieurs missions )
+
+Proposition : Accepter ( deviens riche en méchant ) ou Refuser ( deviens reste pauvre et criminel ).
+ 
