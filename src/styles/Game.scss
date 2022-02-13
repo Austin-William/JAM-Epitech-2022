@@ -9,6 +9,39 @@
     text-align: center;
 }
 
+.Game .Game-condition-dead {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    font-size: 4em;
+    height: 10%;
+    width: 100%;
+    font-weight: bold;
+    color: grey;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.926), rgba(218, 7, 7, 0.911));
+    cursor: default;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
+
+.Game .Game-condition-win {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    font-size: 4em;
+    height: 10%;
+    width: 100%;
+    font-weight: bold;
+    background: linear-gradient(to bottom, rgba(206, 206, 206, 0.926), rgba(7, 218, 25, 0.911));
+    cursor: default;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
+
 .Game .Game-background {
     position: absolute;
     top: 0;
