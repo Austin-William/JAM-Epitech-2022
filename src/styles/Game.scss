@@ -28,16 +28,30 @@
 
 .Game .Game-reset-button {
     display: flex;
-    flex-direction: row-reverse;
-    align-items: center;
-    justify-items: center;
-    top: 0;
-    right: 0;
-    width: 100%;
-    position: relative;
-    padding: 1em;
-    background-color: aqua;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+    z-index: 99;
+    padding-top: 1.5em;
+    position: absolute;
+    width: 95%;
+    button {
+        padding: 0.5em;
+        border: none;
+        background-color: #333;
+        color: #fff;
+        font-size: 1.2em;
+        border-radius: 10px;
+        box-shadow: 0 0 10px black;
+        cursor: pointer;
+        transition: all 0.2s ease-in-out;
+        &:hover {
+            background-color: #fff;
+            color: #333;
+        }
+    }
 }
+
 .Game .Game-condition-win {
     display: flex;
     flex-direction: column;
