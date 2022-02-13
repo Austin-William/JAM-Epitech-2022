@@ -26,6 +26,18 @@
     border-radius: 10px;
 }
 
+.Game .Game-reset-button {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-items: center;
+    top: 0;
+    right: 0;
+    width: 100%;
+    position: relative;
+    padding: 1em;
+    background-color: aqua;
+}
 .Game .Game-condition-win {
     display: flex;
     flex-direction: column;

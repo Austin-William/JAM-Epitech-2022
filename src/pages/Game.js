@@ -969,6 +969,9 @@ function Game() {
                     <img src={person2} alt="person-right" />
                 </div>
             </div>
+            <div className="Game-reset-button">
+                <button onClick={() => setI(0)}> Recommencer </button>
+            </div>
             <div className="Game-dialog">
                 <div className="Game-dialog-name">
                     <span>
