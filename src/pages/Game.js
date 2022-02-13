@@ -107,7 +107,7 @@ function Game() {
                 {
                     "text": "Vous êtes pas bien ? je ne travaillerai pas pour vous !",
                     "id": 2,
-                    "jump": 33
+                    "jump": 92
                 }
             ]
         },
@@ -152,7 +152,7 @@ function Game() {
             "text": "Cela faisait maintenant plusieurs semaines que je travaillais sur le chantier et je commençais à m'habituer à l'ambiance de travail. Soudain mon superieur m'interpela.",
             "image_right": "",
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 16,
@@ -160,7 +160,7 @@ function Game() {
             "text": "Henry, alors tu t'habitues au chantier ?",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 17,
@@ -168,7 +168,7 @@ function Game() {
             "text": "Oui je commence.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 18,
@@ -176,7 +176,7 @@ function Game() {
             "text": "Dis moi, j'aurai une question. Sur la partie nord du chantier, on commence à accumuler du retard. Ca te dirait de faire des heures supplémentaires pour combler ça ? moyenant finance bien-sur.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png'),
+            "background": require('../assets/chantier_jour.png'),
             "response": [
                 {
                     "text": "Oui",
@@ -197,7 +197,7 @@ function Game() {
             "text": "Bien sûr, ça ne me dérange pas.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 20,
@@ -205,7 +205,7 @@ function Game() {
             "text": "Très bien, tu peux commencer ce soir, sinon ça va vraiment devenir un problème si on enchaine trop de retard.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 21,
@@ -213,7 +213,7 @@ function Game() {
             "text": "C'est compris.",
             "image_right": require("../assets/chef_de_chantier.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_jour.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 22,
@@ -221,7 +221,7 @@ function Game() {
             "text": "Voilà, j'ai enfin fini. Ca m'aurait pris plus de temps que prévu et tous les autres sont déjà partis.",
             "image_right": "",
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 23,
@@ -229,7 +229,7 @@ function Game() {
             "text": "Qu'est-ce-que c'est que ce bruit ?",
             "image_right": "",
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 24,
@@ -237,7 +237,7 @@ function Game() {
             "text": "Que faites-vous ici ? Vous êtes bléssé ?",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 25,
@@ -245,7 +245,7 @@ function Game() {
             "text": "Oui et il semblerait que je n'en ai plus pour très longtemps.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 26,
@@ -253,7 +253,7 @@ function Game() {
             "text": "Attendez je vais appeler les secours.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 27,
@@ -261,7 +261,7 @@ function Game() {
             "text": "Ca ne servira à rien. Dans ce quartier, les secours mettent beaucoup trop de temps pour arriver.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 28,
@@ -269,7 +269,7 @@ function Game() {
             "text": "Dans ce quartier ? Vous venez des quartiers riches ?",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 29,
@@ -277,7 +277,7 @@ function Game() {
             "text": "Vous êtes perspicaces. Effectivement, je viens des quartiezs riches et apparemment, c'est une raison valable pour vous aggressez à mort.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png'),
+            "background": require('../assets/chantier_nuit.png'),
             "response": [
                 {
                     "text": "Choix gentil",
@@ -300,7 +300,7 @@ function Game() {
             "text": "Je suis désolé que vous ayez eu à subir ça.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 31,
@@ -308,7 +308,7 @@ function Game() {
             "text": "On n'y peut rien. La vie ici est dur, je suppose que t'aimerais possédé mon temps.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 32,
@@ -316,7 +316,7 @@ function Game() {
             "text": "Je vais pas vous mentir, ça m'arrangerait bien. Je n'aurai plus cette dette sur les épaules.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 33,
@@ -324,7 +324,7 @@ function Game() {
             "text": "Tu sais, la vie de riche n'est pas si bien que ça. Je n'ai ni famille ni amis, je suis seul.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 34,
@@ -332,7 +332,7 @@ function Game() {
             "text": "Je suis dans la même situation donc ça ne changerait pas grand chose.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 35,
@@ -340,7 +340,7 @@ function Game() {
             "text": "Si je peux au moins faire un cadeau avant de partir, j'aimerais que ce soit toi qui hérite de mon temps.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 36,
@@ -348,7 +348,7 @@ function Game() {
             "text": "Tu es sûr ?",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 37,
@@ -356,7 +356,7 @@ function Game() {
             "text": "Je n'ai personne d'autre à qui donner de toute façon.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 38,
@@ -364,7 +364,7 @@ function Game() {
             "text": "... J'accepte.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 39,
@@ -372,7 +372,7 @@ function Game() {
             "text": "Eh bien avec ça, je pars en faisant au moins une bonne action.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 40,
@@ -380,7 +380,7 @@ function Game() {
             "text": "* est mort *",
             "image_right": require("../assets/homme_riche_qui_meurt.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 41,
@@ -506,12 +506,12 @@ function Game() {
                 {
                     "text": "Partir",
                     "id": 0,
-                    "jump": 31,
+                    "jump": 57,
                 },
                 {
                     "text": "Voler son temps",
                     "id": 1,
-                    "jump": 16,
+                    "jump": 57,
                 },
             ]
         },
@@ -524,7 +524,7 @@ function Game() {
             "text": "Je ferai mieux de prévenir la police si je ne veux pas de problème.",
             "image_right": require("../assets/homme_riche_qui_se_fait_taper.png"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_nuit.png')
         },
         {
             "nb": 55,
@@ -532,13 +532,13 @@ function Game() {
             "text": "Plusieurs jours après, l'affaire commençait déjà à être oublier et moi, je retournais à mon quotidien.",
             "image_right": "",
             "image_left": "",
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_jour.png')
         },
         {
             "nb": 56,
             "rip": true,
             "text": "Vous avez fini le jeu en étant pauvre. Dommage !",
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/chantier_jour.png')
         },
 
         // Voler son temps
@@ -549,7 +549,7 @@ function Game() {
             "text": "Plusieurs jours ce sont passé depuis que j'ai volé le temps de l'homme.",
             "image_right": "",
             "image_left": "",
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/villa.png')
         },
         {
             "nb": 58,
@@ -557,7 +557,7 @@ function Game() {
             "text": "Bonjour monsieur, je suis la police. Puis-je vous parler une minute ?",
             "image_right": require("../assets/policier.jpg"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/villa.png')
         },
         {
             "nb": 59,
@@ -565,7 +565,7 @@ function Game() {
             "text": "Bonjour, qu'est-ce-qu'il se passe ?",
             "image_right": require("../assets/policier.jpg"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/villa.png')
         },
         {
             "nb": 60,
@@ -573,7 +573,7 @@ function Game() {
             "text": "Il se passe que nous avons détécter un échange de temps ilégale entre vous et l'homme décéde dans le coin il y a quelques jours. Vous n'etes probablement pas au courant mais tout échange de temps entre 2 personnes est notifier par nos services.",
             "image_right": require("../assets/policier.jpg"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/villa.png')
         },
         {
             "nb": 61,
@@ -581,7 +581,7 @@ function Game() {
             "text": "Je n'étais pas au courant.",
             "image_right": require("../assets/policier.jpg"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/villa.png')
         },
         {
             "nb": 62,
@@ -589,7 +589,7 @@ function Game() {
             "text": "Encore heureux, suel les personnes qui enfreignent les règles, comme vous, sont au courant. Je vous invite donc à me suivre.",
             "image_right": require("../assets/policier.jpg"),
             "image_left": require("../assets/ouvrier.png"),
-            "background": require('../assets/pauvre_nuit.png')
+            "background": require('../assets/villa.png')
         },
         {
             "nb": 63,
@@ -637,7 +637,7 @@ function Game() {
             "nb": 68,
             "name": "Henry",
             "text": "Je vais prendre celle du illégal.",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
@@ -645,7 +645,7 @@ function Game() {
             "nb": 69,
             "name": "Jean-Claude",
             "text": "Très bien, tu saura les modalités de ce travail dans les prochains jours. Tu peux y aller maintenant.",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
@@ -653,7 +653,7 @@ function Game() {
             "nb": 70,
             "name": "Henry",
             "text": "Au revoir.",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
@@ -661,43 +661,241 @@ function Game() {
             "nb": 71,
             "name": "Jean-Claude",
             "text": "Au revoir, et à bientôt.",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
+        {
+            "nb": 72,
+            "name": "",
+            "text": "Quelques jours plus tard",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 73,
+            "name": "Henry",
+            "text": "Quelles sont les modalités ?",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 74,
+            "name": "Jean-Claude",
+            "text": "Je voudrais que tu fasses disparaître quelqu'un.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 75,
+            "name": "Henry",
+            "text": "Quoi ?!",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 76,
+            "name": "Jean-Claude",
+            "text": "Ne fait pas l'étonné, tu as choisies ce boulot, tu n'as pas le choix, tu dois le faire.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png'),
+            "response": [
+                {
+                    "text": "Accepter",
+                    "id": 0,
+                    "jump": 77,
+                },
+                {
+                    "text": "Refuser",
+                    "id": 1,
+                    "jump": 16,
+                },
+            ]
+        },
+
+        // Accepter
+
+        {
+            "nb": 77,
+            "name": "",
+            "text": "Quelques jours plus tard après avoir accomplie la mission",
+            "image_right": "",
+            "image_left": "",
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 78,
+            "name": "Henry",
+            "text": "Voilà c'est fait.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 79,
+            "name": "Jean-Claude",
+            "text": "Merci, tu m'as était d'une grande aide. Ta dette est mainteant réglée.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 80,
+            "name": "Henry",
+            "text": "Au revoir et surtout adieu.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 81,
+            "name": "Jean-Claude",
+            "text": "Attends ! J'ai une seconde proposition à te faire. Travailles encore pour moi mais cette fois-ci, pour ton compte. T'es d'accord ?",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png'),
+            "response": [
+                {
+                    "text": "Accepter",
+                    "id": 0,
+                    "jump": 82,
+                },
+                {
+                    "text": "Refuser",
+                    "id": 1,
+                    "jump": 85,
+                },
+            ]
+        },
+
+        // Accepter compte personnel
+        
+        {
+            "nb": 82,
+            "name": "Henry",
+            "text": "Je l'ai déjà fait une fois, et si tu me promets que tu ne me balanceras pas c'est d'accord.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 83,
+            "name": "Jean-Claude",
+            "text": "Nous avons donc un accord.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 84,
+            "criminel": true,
+            "text": "Vous êtes devenu le plus grand criminel du monde. Sale fou !",
+            "background": require('../assets/pauvre_nuit.png')
+        },
+
+        // Refuser compte personnel
+
+        {
+            "nb": 85,
+            "name": "Henry",
+            "text": "Non. Cette fois me suffit. Adieu !",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 86,
+            "name": "",
+            "text": "La nuit suivante, la police était devant la porte de ma maison et je fûs arrêté pour meurtre. Jean-Claude m'avait balancé.",
+            "image_right": "",
+            "image_left": require("../assets/policier.jpg"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 87,
+            "miskin": true,
+            "text": "La prison c'est cool askip.",
+            "background": require('../assets/pauvre_nuit.png')
+        },
+
+        // Refuser
+
+        {
+            "nb": 88,
+            "name": "Henry",
+            "text": "Jamais je ne ferai ça ! Je préfère largement l'autre travail.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 89,
+            "name": "Jean-Claude",
+            "text": "Et bien, prend le alors.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 90,
+            "name": "Henry",
+            "text": "Evidemment que je le prends.",
+            "image_right": require("../assets/créancier.png"),
+            "image_left": require("../assets/ouvrier.png"),
+            "background": require('../assets/pauvre_nuit.png')
+        },
+        {
+            "nb": 91,
+            "bof": true,
+            "text": "Plus de dette mais pas d'argent, retour à la vie normale sans maman.",
+            "background": require('../assets/pauvre_jour.png')
+        },
+
 
         ////////////////////////////////// None choice //////////////////////////////////
 
         {
+            "nb": 92,
             "name": "Henry",
             "text": "Je refuse.",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
         {
+            "nb": 93,
             "name": "Jean-Claude",
             "text": "Je ne crois pas que ce soit une option.",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
         {
+            "nb": 94,
             "name": "Henry",
             "text": "Et pourtant si, je m'en vais.",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier.png"),
             "background": require('../assets/pauvre_jour.png')
         },
         {
+            "nb": 95,
             "name": "Jean-Claude",
             "text": "Tuez-le !",
-            "image_right": require("../assets/chef_de_chantier.png"),
+            "image_right": require("../assets/créancier.png"),
             "image_left": require("../assets/ouvrier_mort.png"),
             "background": require('../assets/pauvre_jour.png')
         },
         {
+            "nb": 96,
             "dead": true,
+            "text": "Il est fou ce type. Mais bon t'es mort, c'est trop tard pour regretter.",
+            "background": require('../assets/pauvre_nuit.png')
         }
     ];
 
@@ -784,7 +982,7 @@ function Game() {
                 </div>
             </div>
             {
-                textDialog[i].dead || textDialog[i].win || textDialog[i].poor || textDialog[i].noob || textDialog[i].rip ?
+                textDialog[i].dead || textDialog[i].bof ||  textDialog[i].criminel || textDialog[i].miskin || textDialog[i].win || textDialog[i].poor || textDialog[i].noob || textDialog[i].rip ?
                     null
                     :
                     <div className="Game-buttons">
@@ -810,6 +1008,30 @@ function Game() {
                 textDialog[i].dead ?
                     <div className="Game-condition-dead">
                         VOUS ÊTES MORT !
+                    </div>
+                    :
+                    null
+            }
+            {
+                textDialog[i].bof ?
+                    <div className="Game-condition-dead">
+                        PAS DE SUCCES EN VUE !
+                    </div>
+                    :
+                    null
+            }
+            {
+                textDialog[i].miskin ?
+                    <div className="Game-condition-dead">
+                        EN PRISON
+                    </div>
+                    :
+                    null
+            }
+            {
+                textDialog[i].criminel ?
+                    <div className="Game-condition-win">
+                        RICHE ET CRIMINEL !
                     </div>
                     :
                     null
