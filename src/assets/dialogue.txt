@@ -71,3 +71,21 @@ Sur le chantier de nuit :
     - Je ferais mieux de prévenir la police si je ne veux pas de problème
     [choix prendre son temps]
     - Il n'aura plus besoin de son temps de toute façon. Autant lui prendre.
+
+Dans les quartiers riches :
+"Grace aux temps que l'homme m'a donné, j'ai pu rembourser m'a dette. Cependant, l'homme ne m'avait pas seulement donné son temps, il m'avait aussi légué tout ses biens. 
+Grace à ça, je pus m'installer dans les quartiers riches et reprendre son affaire, m'assurant un avenir. Ce soir là, la police c'était assuré que je n'avait pas volé son temps en regardant un document que seul eux on accès.
+Si j'avait pris son temps sans son accords ça se serait vu et j'aurai fini en prison. Cependant m'a soudaine apparition ne fais pas plaisir aux autres riches. 
+J'ai un entretiens avec un d'entre eux qui est très influant, cette discution pourrait bien scellé mon sort."
+- Bonjour [nom du perso]. Comment ce passe ta nouvelle vie ?
+- Très bien, je suis heureux que vous posiez la question.
+- Cessons ces bavardages inutiles, vous savez pourquoi je vous ai fais venir. Moi et beaucoup d'autres n'ont pas apprecier que quelqu'un des bas quartiers viennent soudainement nous rejoindre.
+Cependant, je suis prêt à vous laisser une chance. Si vous reussissez à me convaincre que vos intentions sont louable, je ferais en sorte que votre séjour ici se passe le mieux possible sinon, j'ai bien paur que votre chemin soit plus court que vous ne l'esperer.
+[choix gentil]
+- Ne vous inquiété pas, ça à toujours été mon intention.
+- Si nous somme daccord sur ce point, il n'y a aucun problème.
+*Fin riche gentils*
+[choix mechant]
+- Je ne vous dois rien, je vivrais m'a vie comme je l'entends.
+-C'est ce que nous verrons.
+*Fin pauvre*
