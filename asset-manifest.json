@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JAM-Epitech-2022/static/css/main.68b8d0c2.css",
-    "main.js": "/JAM-Epitech-2022/static/js/main.50aa7179.js",
+    "main.css": "/JAM-Epitech-2022/static/css/main.f8a002cd.css",
+    "main.js": "/JAM-Epitech-2022/static/js/main.cf174c84.js",
     "static/media/gorilla.png": "/JAM-Epitech-2022/static/media/gorilla.7de930505157a0205af7.png",
     "static/media/villa.png": "/JAM-Epitech-2022/static/media/villa.223a239e96b4b5c92d15.png",
     "static/media/pauvre_jour.png": "/JAM-Epitech-2022/static/media/pauvre_jour.34516760e08324d8df6b.png",
@@ -17,11 +17,11 @@
     "static/media/homme_riche.png": "/JAM-Epitech-2022/static/media/homme_riche.f9cab24fbb261e3b7dc0.png",
     "static/media/créancier.png": "/JAM-Epitech-2022/static/media/créancier.d4a9c2d26549fe7c4574.png",
     "index.html": "/JAM-Epitech-2022/index.html",
-    "main.68b8d0c2.css.map": "/JAM-Epitech-2022/static/css/main.68b8d0c2.css.map",
-    "main.50aa7179.js.map": "/JAM-Epitech-2022/static/js/main.50aa7179.js.map"
+    "main.f8a002cd.css.map": "/JAM-Epitech-2022/static/css/main.f8a002cd.css.map",
+    "main.cf174c84.js.map": "/JAM-Epitech-2022/static/js/main.cf174c84.js.map"
   },
   "entrypoints": [
-    "static/css/main.68b8d0c2.css",
-    "static/js/main.50aa7179.js"
+    "static/css/main.f8a002cd.css",
+    "static/js/main.cf174c84.js"
   ]
 }
