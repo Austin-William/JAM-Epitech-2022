@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d009f7f.css",
-    "main.js": "/static/js/main.28cd69df.js",
-    "static/media/gorilla.png": "/static/media/gorilla.7de930505157a0205af7.png",
-    "static/media/villa.png": "/static/media/villa.223a239e96b4b5c92d15.png",
-    "static/media/pauvre_jour.png": "/static/media/pauvre_jour.34516760e08324d8df6b.png",
-    "static/media/pauvre_nuit.png": "/static/media/pauvre_nuit.7df17424843ef1421e8f.png",
-    "static/media/chantier_jour.png": "/static/media/chantier_jour.106dc70c82be7c90b5e6.png",
-    "static/media/chantier_nuit.png": "/static/media/chantier_nuit.a476bf96bdb47e5780b0.png",
-    "static/media/policier.jpg": "/static/media/policier.067c57e7b6f1a40b4fb9.jpg",
-    "static/media/chef_de_chantier.png": "/static/media/chef_de_chantier.33c66c56e7bae4f0e16e.png",
-    "static/media/ouvrier.png": "/static/media/ouvrier.de7f0424966b6dac1fc0.png",
-    "static/media/ouvrier_mort.png": "/static/media/ouvrier_mort.d2c2db042f740cd0c459.png",
-    "static/media/homme_riche_qui_se_fait_taper.png": "/static/media/homme_riche_qui_se_fait_taper.589f6a7f7bc68b08085e.png",
-    "static/media/homme_riche_qui_meurt.png": "/static/media/homme_riche_qui_meurt.f99bca16a657854951ac.png",
-    "static/media/homme_riche.png": "/static/media/homme_riche.f9cab24fbb261e3b7dc0.png",
-    "static/media/créancier.png": "/static/media/créancier.d4a9c2d26549fe7c4574.png",
-    "index.html": "/index.html",
-    "main.7d009f7f.css.map": "/static/css/main.7d009f7f.css.map",
-    "main.28cd69df.js.map": "/static/js/main.28cd69df.js.map"
+    "main.css": "/JAM-Epitech-2022/static/css/main.68b8d0c2.css",
+    "main.js": "/JAM-Epitech-2022/static/js/main.50aa7179.js",
+    "static/media/gorilla.png": "/JAM-Epitech-2022/static/media/gorilla.7de930505157a0205af7.png",
+    "static/media/villa.png": "/JAM-Epitech-2022/static/media/villa.223a239e96b4b5c92d15.png",
+    "static/media/pauvre_jour.png": "/JAM-Epitech-2022/static/media/pauvre_jour.34516760e08324d8df6b.png",
+    "static/media/pauvre_nuit.png": "/JAM-Epitech-2022/static/media/pauvre_nuit.7df17424843ef1421e8f.png",
+    "static/media/chantier_jour.png": "/JAM-Epitech-2022/static/media/chantier_jour.106dc70c82be7c90b5e6.png",
+    "static/media/chantier_nuit.png": "/JAM-Epitech-2022/static/media/chantier_nuit.a476bf96bdb47e5780b0.png",
+    "static/media/policier.jpg": "/JAM-Epitech-2022/static/media/policier.067c57e7b6f1a40b4fb9.jpg",
+    "static/media/chef_de_chantier.png": "/JAM-Epitech-2022/static/media/chef_de_chantier.33c66c56e7bae4f0e16e.png",
+    "static/media/ouvrier.png": "/JAM-Epitech-2022/static/media/ouvrier.de7f0424966b6dac1fc0.png",
+    "static/media/ouvrier_mort.png": "/JAM-Epitech-2022/static/media/ouvrier_mort.d2c2db042f740cd0c459.png",
+    "static/media/homme_riche_qui_se_fait_taper.png": "/JAM-Epitech-2022/static/media/homme_riche_qui_se_fait_taper.589f6a7f7bc68b08085e.png",
+    "static/media/homme_riche_qui_meurt.png": "/JAM-Epitech-2022/static/media/homme_riche_qui_meurt.f99bca16a657854951ac.png",
+    "static/media/homme_riche.png": "/JAM-Epitech-2022/static/media/homme_riche.f9cab24fbb261e3b7dc0.png",
+    "static/media/créancier.png": "/JAM-Epitech-2022/static/media/créancier.d4a9c2d26549fe7c4574.png",
+    "index.html": "/JAM-Epitech-2022/index.html",
+    "main.68b8d0c2.css.map": "/JAM-Epitech-2022/static/css/main.68b8d0c2.css.map",
+    "main.50aa7179.js.map": "/JAM-Epitech-2022/static/js/main.50aa7179.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d009f7f.css",
-    "static/js/main.28cd69df.js"
+    "static/css/main.68b8d0c2.css",
+    "static/js/main.50aa7179.js"
   ]
 }
