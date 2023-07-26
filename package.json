@@ -11,6 +11,8 @@
     "sass": "^1.49.7"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "json-loader": "^0.5.7"
   }
 }
